@@ -1,0 +1,11 @@
+
+
+.Hdr{
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.Bttn{
+font-style: italic;
+background-color: var(--secondary);
+color: red;
+}
